@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Arshdeep Kaur</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7511B&center=true&width=600&lines=%7C+Frontend+Engineer+%7C+React+Specialist;Open+Source+Developer;Passionate+about+User-Centric+Designs;Lifelong+Learner+%26+Problem+Solver" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7511B&center=true&width=600&lines=Frontend+Engineer+%7C+React+Specialist;Open+Source+Developer;Passionate+about+User-Centric+Designs;Lifelong+Learner+%26+Problem+Solver" alt="Typing Animation" />
 </p>
 
 
